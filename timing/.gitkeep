@@ -1,0 +1,2 @@
+This dir holds receipts of actual rebuilds — each session that walks build.md from §0
+to §17 should drop a YYYY-MM-DD-rebuild.md here per the format in §17.
